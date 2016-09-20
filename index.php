@@ -109,7 +109,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <section id="skills" class="skills">
         <div class="container">
-            <h2>Mijn programmeer vaardigheden</h2>
+            <h2>Mijn programmeer dingen</h2>
             <div class="progress">
                 <div class="progress-bar progress-bar-success progress-bar-striped active html" role="progressbar"
                      aria-valuemin="0" aria-valuemax="100" style="width:0%">
