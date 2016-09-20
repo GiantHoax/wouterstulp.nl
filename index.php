@@ -524,10 +524,10 @@
 
 //        Animated skills
         $(".html").animate({
-            width: "75%"
+            width: "5%"
         }, 4000 );
         $(".javascript").animate({
-            width: "50%"
+            width: "1%"
         }, 4000 );
         $(".php").animate({
             width: "70%"
