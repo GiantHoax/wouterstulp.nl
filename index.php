@@ -81,15 +81,22 @@
         <!-- /.container-fluid -->
     </nav>
 
+
+
     <!-- Header -->
-    <header id="page-top" class="header">
-        <div class="text-vertical-center">
-            <h1 id="naam" class="fadeInDownBig animated">Wouter Stulp</h1>
-            <h3 class="fadeInDownBig animated">Student Applicatie ontwikkeling</h3>
-            <br>
-            <a href="#about" class="btn btn-dark btn-lg">Dit ben ik</a>
+        <div id="particles" class="page-top" id="page-top">
+            <div id="intro">
+                <h1 id="naam">Wouter Stulp</h1>
+                <h2>4e jaars student applicatieontwikkeling</h2>
+                <a href="#about" class="btn btn-dark btn-lg">Dit ben ik</a>
+            </div>
         </div>
-    </header>
+        <!--        <div class="text-vertical-center">-->
+<!--            <h1 id="naam" class="fadeInDownBig animated">Wouter Stulp</h1>-->
+<!--            <h3 class="fadeInDownBig animated">Student Applicatie ontwikkeling</h3>-->
+<!--            <br>-->
+<!--            <a href="#about" class="btn btn-dark btn-lg">Dit ben ik</a>-->
+<!--        </div>-->
 
     <!-- About -->
     <section id="about" class="about">
@@ -97,7 +104,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Ik ben Wouter Stulp</h2>
-                    <p class="lead">Ik ben een 3e jaars student Applicatieontwikkeling op het Alfa College te Groningen.</p>
+                    <p class="lead">Ik ben een 4e jaars student Applicatieontwikkeling op het Alfa College te Groningen.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -109,7 +116,7 @@
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
     <section id="skills" class="skills">
         <div class="container">
-            <h2>Mijn programmeer dingen</h2>
+            <h2>Mijn programmeer vaardigheden</h2>
             <div class="progress">
                 <div class="progress-bar progress-bar-success progress-bar-striped active html" role="progressbar"
                      aria-valuemin="0" aria-valuemax="100" style="width:0%">
@@ -195,61 +202,6 @@
                     <!-- /Body -->
 
                 </article>
-                <!-- /Panel -->
-                <div class="separator text-muted">
-                    <time>14-07-2000</time>
-                </div>
-                <!-- Panel -->
-                <article class="panel panel-info">
-
-                    <!-- Icon -->
-                    <div class="panel-heading icon">
-                        <i class="fa fa-graduation-cap"></i>
-                    </div>
-                    <!-- /Icon -->
-
-                    <!-- Heading -->
-                    <div class="panel-heading">
-                        <h2 class="panel-title">Basisschool</h2>
-                    </div>
-                    <!-- /Heading -->
-
-                    <!-- Body -->
-                    <div class="panel-body">
-                        Begonnen aan de CBS de Woldzoom in groep 1
-                    </div>
-                    <!-- /Body -->
-
-                </article>
-                <!-- /Panel -->
-
-                <!-- Panel -->
-                <div class="separator text-muted">
-                    <time>02-07-2008</time>
-                </div>
-                <!-- Panel -->
-                <article class="panel panel-success">
-
-                    <!-- Icon -->
-                    <div class="panel-heading icon">
-                        <i class="fa fa-graduation-cap"></i>
-                    </div>
-                    <!-- /Icon -->
-
-                    <!-- Heading -->
-                    <div class="panel-heading">
-                        <h2 class="panel-title">Basisschool</h2>
-                    </div>
-                    <!-- /Heading -->
-
-                    <!-- Body -->
-                    <div class="panel-body">
-                        Afgerond aan de CBS de Woldzoom in groep 8
-                    </div>
-                    <!-- /Body -->
-
-                </article>
-                <!-- /Panel -->
 
                 <!-- Separator -->
                 <div class="separator text-muted">
@@ -386,7 +338,7 @@
                 <!-- /Panel -->
                 <!-- Panel -->
                 <div class="separator text-muted">
-                    <time>20-10-2014 TOT Heden</time>
+                    <time>20-10-2014 TOT 07-06-2016</time>
                 </div>
                 <article class="panel panel-info">
 
@@ -410,6 +362,80 @@
 
                 </article>
                 <!-- /Panel -->
+                <!-- Panel -->
+                <div class="separator text-muted">
+                    <time>08-02-2016 TOT 08-07-2016</time>
+                </div>
+                <article class="panel panel-warning">
+
+                    <!-- Icon -->
+                    <div class="panel-heading icon">
+                        <i class="fa fa-suitcase"></i>
+                    </div>
+                    <!-- /Icon -->
+
+                    <!-- Heading -->
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Stage leerjaar 3</h2>
+                    </div>
+                    <!-- /Heading -->
+
+                    <!-- Body -->
+                    <div class="panel-body">
+                        Stage gelopen bij Fysiosupplies B.V te Groningen.
+                    </div>
+                    <!-- /Body -->
+
+                </article>
+                <!-- /Panel -->
+                <div class="separator text-muted">
+                    <time>07-06-2016</time>
+                </div>
+                <article class="panel panel-info">
+
+                    <!-- Icon -->
+                    <div class="panel-heading icon">
+                        <i class="fa fa-suitcase"></i>
+                    </div>
+                    <!-- /Icon -->
+
+                    <!-- Heading -->
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Bijbaan Lidl</h2>
+                    </div>
+                    <!-- /Heading -->
+
+                    <!-- Body -->
+                    <div class="panel-body">
+                        Uit dienst treding bij Lidl Nederland B.V
+                    </div>
+                    <!-- /Body -->
+
+                </article>
+                <div class="separator text-muted">
+                    <time>10-07-2016 TOT Heden</time>
+                </div>
+                <article class="panel panel-info">
+
+                    <!-- Icon -->
+                    <div class="panel-heading icon">
+                        <i class="fa fa-suitcase"></i>
+                    </div>
+                    <!-- /Icon -->
+
+                    <!-- Heading -->
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Bijbaan Xenos</h2>
+                    </div>
+                    <!-- /Heading -->
+
+                    <!-- Body -->
+                    <div class="panel-body">
+                        Begonnen als medewerker bij Xenos Nederland B.V
+                    </div>
+                    <!-- /Body -->
+
+                </article>
                 <!-- /Timeline -->
 
         </div>
@@ -511,6 +537,8 @@
     <script src="js/bootstrap.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
+    <script type='text/javascript' src='js/jquery.particleground.js'></script>
+    <script type='text/javascript' src='js/app.js'></script>
 
     <script>
 //      disable scrolling google maps
@@ -524,10 +552,10 @@
 
 //        Animated skills
         $(".html").animate({
-            width: "5%"
+            width: "75%"
         }, 4000 );
         $(".javascript").animate({
-            width: "1%"
+            width: "50%"
         }, 4000 );
         $(".php").animate({
             width: "70%"
@@ -571,6 +599,25 @@
         });
     });
 
+    </script>
+    <script>
+        var count_particles, stats, update;
+        stats = new Stats;
+        stats.setMode(0);
+        stats.domElement.style.position = 'absolute';
+        stats.domElement.style.left = '0px';
+        stats.domElement.style.top = '0px';
+        document.body.appendChild(stats.domElement);
+        count_particles = document.querySelector('.js-count-particles');
+        update = function() {
+            stats.begin();
+            stats.end();
+            if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+                count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+            }
+            requestAnimationFrame(update);
+        };
+        requestAnimationFrame(update);
     </script>
 
 </body>
