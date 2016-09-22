@@ -84,6 +84,7 @@
 
 
     <!-- Header -->
+    <header id="page-top" visibility="hidden"></header>
         <div id="particles" class="page-top" id="page-top">
             <div id="intro">
                 <h1 id="naam">Wouter Stulp</h1>
@@ -103,7 +104,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Ik ben Wouter Stulp</h2>
+                    <img src="img/hoofd.jpg" style="align-right" class="img-circle" height="200px"><h2>Ik ben Wouter Stulp</h2>
                     <p class="lead">Ik ben een 4e jaars student Applicatieontwikkeling op het Alfa College te Groningen.</p>
                 </div>
             </div>

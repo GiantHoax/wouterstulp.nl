@@ -13,7 +13,9 @@ particlesJS.load('particles-js', 'particles.json', function() {
 document.addEventListener('DOMContentLoaded', function () {
   particleground(document.getElementById('particles'), {
     dotColor: '#02264C',
-    lineColor: '#02264C'
+    lineColor: '#02264C',
+    partice:    '10 px'
+
   });
   var intro = document.getElementById('intro');
   intro.style.marginTop = - intro.offsetHeight / 4 + 'px';
